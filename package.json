@@ -1,0 +1,12 @@
+{
+  "name": "vue-simple-image",
+  "version": "1.0.2",
+  "description": "A simple progressive image component for Vue.",
+  "main": "/src/index.vue",
+  "keywords": ["Vue", "Image", "Progressive"],
+  "author": "Evan M Jones <evanjones4040@gmail.com> (http://evanjon.es/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}

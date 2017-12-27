@@ -1,5 +1,9 @@
 # Just another progressive image component for Vue.
 
+#### Screenshots
+
+<img src="https://raw.githubusercontent.com/mini-eggs/vue-simple-image/master/static/preview.gif" width="25%" />
+
 #### Why
 
 This is made for the uses case of having 15+ very large images on the page with users transitioning on and off the page frequently. This solves the use case of very expensive images being downloaded after they are no longer need. After an image is no longer needed its request is cancelled unlike default <img /> tags.
